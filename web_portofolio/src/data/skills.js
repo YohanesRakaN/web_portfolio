@@ -12,6 +12,6 @@ export const skills = [
   {
     category: "Data Engineer",
     icon: "✏️",
-    items: ["Python"],
+    items: ["Python", "Apache Airflow", "Apache Sparks"],
   },
 ];
